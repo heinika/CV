@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    text-align: center;
+    color: #40514E;
+}
+
+.head-container{
+    background-color:  #dff6f0;
+    margin: 0px;
+}
+
+h1{
+    margin: 0;
+    padding-top: 5%;
+    font-size: 560%;
+    font-family: 'Kaushan Script', cursive;
+    line-height: 2;
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+    font-size: 200%;
+}
+
+h3,a{
+    color: #11999E;
+}
+
+.top-clould{
+    position: absolute;
+    width: 12%;
+    right: 15%;
+    top: 20%;
+}
+
+.my-description{
+    font-weight: normal;
+    font-size: 200%;
+}
+
+.land{
+    margin: 5% auto 0;
+    width: 70%;
+    border:0;
+    display: block;
+}
+
+.bottom-clould{
+    position: absolute;
+    width: 12%;
+    left: 10%;
+}
+
+.image-profile{
+    width: 10rem;
+    margin-top: 25px;
+}
+
+.image-skill-android{
+    width: 10rem;
+    float: left;
+    margin-right: 5%;
+}
+
+.image-skill-web{
+    width: 10rem;
+    float: right;
+    margin-left: 5%;
+}
+
+.profile-discription{
+    width: 350px;
+    margin: 15px auto 15px auto;
+}
+
+hr{
+    border: none;
+    border-top: 5px dotted #EAF6F6;
+    margin: 25px auto;
+    width: 10%;
+}
+
+.skill-row{
+    width: 500px;
+    margin: 60px auto 60px auto;
+}
+
+.skill-name{
+    text-align: left;
+}
+
+.contact-me{
+    width: 450px;
+    margin: auto;
+}
+
+.bottom-container{
+    margin-top: 60px;
+    background-color: #66BFBF;
+    padding: 30px;
+}
+
+.footer-link{
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.foot-copyright{
+    margin-top: 30px;
+    font-size: 50%;
+}
+
+.btn {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px -1px 0px #5b6178;
+    margin-top: 30px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
