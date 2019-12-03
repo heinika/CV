@@ -2,6 +2,7 @@ body{
     margin: 0px;
     text-align: center;
     color: #40514E;
+    line-height: 1.5;
 }
 
 .head-container{
@@ -11,7 +12,7 @@ body{
 
 h1{
     margin: 0;
-    padding-top: 5%;
+    padding-top: 15%;
     font-size: 560%;
     font-family: 'Kaushan Script', cursive;
     line-height: 2;
